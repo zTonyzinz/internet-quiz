@@ -9,4 +9,4 @@ Criei esse quiz por diversão e para praticar minhas habilidades javascript!
 
 # Gif Preview
 
-<img src="preview/Quiz.gif" width="700px" height="380"/>
+<img src="preview/Quiz.gif" width="700px" height="450"/>
